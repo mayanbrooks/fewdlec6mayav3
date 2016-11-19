@@ -1,1 +1,2 @@
-# fewdlec6mayav3
+# FEWD113_Lecture6_cols
+col grid w/floats
